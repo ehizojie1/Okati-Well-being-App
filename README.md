@@ -1,7 +1,21 @@
 ![Okati-Logo](Images/App_Logo.jpg)
+
+![okati-login](Images/okati-login.jpg)
+
+![okati_wel](Images/okati_wel.jpg)
+
+![okati_mood](Images/okati_mood.jpg)
+
+![okati_journal](Images/okati_journal.jpg)
+
+![okati_ai](Images/okati_ai.jpg)
+
+![okati_acc](Images/okati_acc.jpg)
 # Okati Well being App
 Okati Well-being App
 ![Okati](Images/okati-logo.svg)
+
+
 
 Welcome to the Okati Wellbeing App GitHub repository! Okati is a comprehensive wellbeing app designed to help users focus on their health and overall life. With a range of features including dietary tips, workout planning, schedule organization, mindfulness, financial planning, and a unique creativity area with built-in AI support, Okati aims to enhance users' daily lives and promote holistic wellbeing.
 
@@ -10,26 +24,16 @@ Welcome to the Okati Wellbeing App GitHub repository! Okati is a comprehensive w
 Before diving into the details, here's a quick overview of the main sections of the Okati app:
 
 1. **Landing Page**: The entry point to the app, providing a brief introduction and guiding users through the setup process.
-![Okati](Images/okati-logo.svg)
-
-![okati-login](Images/okati-login.jpg)
 
 2. **Home**: A centralized hub where users can access all the features and functionalities of the app, including personalized recommendations based on their goals and preferences.
 
-![okati_wel](Images/okati_wel.jpg)
-
 2. **Mood**: A centralized hub where users can access all the features and functionalities of the app, including personalized recommendations based on their goals and preferences.
-![okati_mood](Images/okati_mood.jpg)
 
 3. **Journal**: This section allows users to log their daily activities, such as meals, workouts, mood, and finances, providing valuable insights into their overall wellbeing over time.
-![okati_journal](Images/okati_journal.jpg)
 
 4. **Assitant**: A unique feature of Okati, this area offers users access to a built-in AI assistant for studying, answering questions, providing motivation, and fostering personal growth.
-![okati_ai](Images/okati_ai.jpg)
 
 5. **Account**: Users can manage their profile, preferences, and subscription details from this section, ensuring a personalized experience tailored to their needs.
-![okati_acc](Images/okati_acc.jpg)
-
 ## Features
 
 ### Dietary Tips
