@@ -10,16 +10,25 @@ Welcome to the Okati Wellbeing App GitHub repository! Okati is a comprehensive w
 Before diving into the details, here's a quick overview of the main sections of the Okati app:
 
 1. **Landing Page**: The entry point to the app, providing a brief introduction and guiding users through the setup process.
-   
+![Okati-Land](images/okati-land.jpg)
+
+![Okati-login](images/okati-login.jpg)
+
 2. **Home**: A centralized hub where users can access all the features and functionalities of the app, including personalized recommendations based on their goals and preferences.
 
+![Okati-Wel](images/okati_wel.jpg)
+
 2. **Mood**: A centralized hub where users can access all the features and functionalities of the app, including personalized recommendations based on their goals and preferences.
+![Okati-Wel](images/okati_mood.jpg)
 
 3. **Journal**: This section allows users to log their daily activities, such as meals, workouts, mood, and finances, providing valuable insights into their overall wellbeing over time.
+![Okati-journal](images/okati_journal.jpg)
 
 4. **Assitant**: A unique feature of Okati, this area offers users access to a built-in AI assistant for studying, answering questions, providing motivation, and fostering personal growth.
+![Okati-ai](images/okati_ai.jpg)
 
 5. **Account**: Users can manage their profile, preferences, and subscription details from this section, ensuring a personalized experience tailored to their needs.
+![Okati-acc](images/okati_acc.jpg)
 
 ## Features
 
