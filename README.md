@@ -63,3 +63,11 @@ To install and run the Okati app locally on your device, follow these steps:
    ```bash
    git clone https://github.com/your-username/okati.git
 
+
+## Usage
+
+To run the [Okati Well-being App](https://okati.bubbleapps.io/version-test/):
+
+   ```bash
+   https://okati.bubbleapps.io/version-test
+
