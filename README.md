@@ -1,16 +1,16 @@
 ![Okati-Logo](Images/App_Logo.jpg)
 
-![okati-login](Images/okati-login.jpg)
+![okati-login](Images/okati-login.JPG)
 
-![okati_wel](Images/okati_wel.jpg)
+![okati_wel](Images/okati_wel.JPG)
 
-![okati_mood](Images/okati_mood.jpg)
+![okati_mood](Images/okati_mood.JPG)
 
-![okati_journal](Images/okati_journal.jpg)
+![okati_journal](Images/okati_journal.JPG)
 
-![okati_ai](Images/okati_ai.jpg)
+![okati_ai](Images/okati_ai.JPG)
 
-![okati_acc](Images/okati_acc.jpg)
+![okati_acc](Images/okati_acc.JPG)
 # Okati Well being App
 Okati Well-being App
 ![Okati](Images/okati-logo.svg)
