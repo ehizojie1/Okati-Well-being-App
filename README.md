@@ -10,7 +10,7 @@ Welcome to the Okati Wellbeing App GitHub repository! Okati is a comprehensive w
 Before diving into the details, here's a quick overview of the main sections of the Okati app:
 
 1. **Landing Page**: The entry point to the app, providing a brief introduction and guiding users through the setup process.
-![okati-Land](Images/okati-land.jpg)
+![Okati](Images/okati-logo.svg)
 
 ![okati-login](Images/okati-login.jpg)
 
